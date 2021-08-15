@@ -1,0 +1,10 @@
+<form bindsubmit="submit">
+<input name="uname" placeholder="请输入姓名"></input>
+<input name="age"  placeholder="请输入年龄"></input>
+<input name="hobby" placeholder="爱好"></input>
+<radio-group name="sex" bindchange="onchange">
+<radio value="男生">男</radio>
+<radio value="女生">女</radio>
+</radio-group>
+<button form-type="submit">提交</button>
+</form>

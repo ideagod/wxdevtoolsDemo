@@ -1,0 +1,5 @@
+/* pages/get/get.wxss */
+.box{
+  border: 2rpx solid pink;
+  margin:20rpx 0;
+}

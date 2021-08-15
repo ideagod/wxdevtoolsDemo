@@ -1,0 +1,3 @@
+<button bindtap="update">局部更新</button>
+
+<button bindtap="set">全部更新</button>

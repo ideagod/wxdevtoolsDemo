@@ -1,0 +1,7 @@
+<button bindtap="getdb">查询数据</button>
+<view class="box" wx:for="{{detail}}">
+<view>名字:{{item.uname}}</view>
+<view>性别:{{item.sex}}</view>
+<view>爱好:{{item.hobby}}</view>
+<view>年龄:{{item.age}}</view>
+</view>

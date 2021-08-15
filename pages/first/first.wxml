@@ -1,0 +1,5 @@
+<button bindtap="navatto_add">添加数据</button>
+<button><navigator open-type="navigate" url="../get/get">
+查询数据</navigator></button>
+<button><navigator open-type="navigate" url="../set/set">修改数据</navigator></button>
+<button><navigator open-type="navigate" url="../del/del">删除数据</navigator></button>

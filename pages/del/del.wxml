@@ -1,0 +1,1 @@
+<button bindtap="delete">删除数据</button>
